@@ -12,4 +12,4 @@ this week i learned about the defination of ip adress and how it works. we also 
 
 # review 9/21/2018
 
-this week i learned about coding and decoding. we could solve a code with the wheel with different english charicters. we also learn how to turn our sentence to a code that is hard for people to understand and solve. theres different type of code theres code with number, word, and punctuations. theres diffrent charicter for different symbol.
+this week i learned about coding and decoding. we could solve a code with the wheel with different english charicters. we also learn how to turn our sentence to a code that is hard for people to understand and solve. theres different type of code theres code with number, word, and punctuations. theres diffrent charicter for different symbol. and i find coulding its a verry intresting things.
