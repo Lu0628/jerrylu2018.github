@@ -24,4 +24,4 @@ this week i learned about coding. coding its a very intresting thing, you can gi
 
 # reviww 10/5/2018
 
-this week i learned about our project on github. 
+this week i learned about our project on github. it is complicated at thebeagining but when im familiar with how the system works its not that hard. mr.gold helped my alot, we were writing a school suvival guide and theres different ways to present it.
