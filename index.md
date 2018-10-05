@@ -21,3 +21,7 @@ this week i learned about coding and decoding. we could solve a code with the wh
 this week i learned about coding. coding its a very intresting thing, you can give your computer some command. its very complecated but i think its very important if we know how it works. we are having a project this week aboud coding i think its pretty challenging however i will still try my best. i think without coding we can have such a convinient live that we have today.
 
 ...
+
+# reviww 10/5/2018
+
+this week i learned about our project on github. 
