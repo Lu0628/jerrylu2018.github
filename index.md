@@ -27,3 +27,7 @@ this week i learned about coding. coding its a very intresting thing, you can gi
 this week i learned about our project on github. it is complicated at thebeagining but when im familiar with how the system works its not that hard. mr.gold helped my alot, we were writing a school suvival guide and theres different ways to present it. such as using hashtag or numbers. and it will get way harder if we didin't do it right. therefor i really learned alot this week.
 
 ...
+
+# review 10/12 2018
+
+this week we are finishing the project. we are doing group works, we all are doing one survival guide now. we just put what we have in our project that other people don't all together. we also share alot of ideas. and we also put some picture of our school into the project. theres different pictures such as our academic building, barricks and chaple. and we are finishing it next monday.
