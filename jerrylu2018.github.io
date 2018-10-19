@@ -1,3 +1,4 @@
+
 # review 9/7/2018
 
 this week i learnabout how bubble sort works. we also learn about five steps of the big o. we also did a group game about anwering questions. i learn about how the computer code works
@@ -28,6 +29,29 @@ this week i learned about our project on github. it is complicated at thebeagini
 
 ...
 
-# review 10/12 2018
+# review 10/12/2018
 
 this week we are finishing the project. we are doing group works, we all are doing one survival guide now. we just put what we have in our project that other people don't all together. we also share alot of ideas. and we also put some picture of our school into the project. theres different pictures such as our academic building, barricks and chaple. and we are finishing it next monday.
+
+...
+
+# review 10/19/2018
+
+this week we was finishing up our sulvival guide project. we start another project called XML my world. it is a different format to made our project. there's several continent, country, state, city and distry code.
+it is quite complex but i spend some time on it and i think i know how to do it now. but it really takes time for that project because it's all about typing. there for i will work on it this weekend.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
