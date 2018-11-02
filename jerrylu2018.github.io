@@ -40,14 +40,13 @@ this week we are finishing the project. we are doing group works, we all are doi
 this week we was finishing up our sulvival guide project. we start another project called XML my world. it is a different format to made our project. there's several continent, country, state, city and distry code.
 it is quite complex but i spend some time on it and i think i know how to do it now. but it really takes time for that project because it's all about typing. there for i will work on it this weekend.
 
+...
 
+# review 11/2/2018
 
+this week we where working on our pizza project. we are basicly building our own project. you can have different size of pizza, different souse, different topping. it is a very intresting project. i also learned how all thoes shooping website works. it was complicated for me but after i done this project i think is pretty simple now.
 
-
-
-
-
-
+...
 
 
 
