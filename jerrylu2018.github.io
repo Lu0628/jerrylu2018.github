@@ -48,6 +48,10 @@ this week we where working on our pizza project. we are basicly building our own
 
 ...
 
+# review 11/9/2018
+
+this week we were finishing up our pizza project. we can change our size of pizza and the different kind of picture we can put in there. we also added our background color witch made our website way more intresting and atractive. and that made our website looks official and formal. 
+
 
 
 
