@@ -52,9 +52,8 @@ this week we where working on our pizza project. we are basicly building our own
 
 this week we were finishing up our pizza project. we can change our size of pizza and the different kind of picture we can put in there. we also added our background color witch made our website way more intresting and atractive. and that made our website looks official and formal. 
 
+# review 11/16/2018
 
-
-
-
+this week we build our own website, we were discribe about our favorate games. and we need to put cool inmages and back ground coloron that website to make it looks interesting. my favorate game is gta5 and i think my website should be very intresting. and you can click the botton bellow to download the game witch is so convonient.
 
 
