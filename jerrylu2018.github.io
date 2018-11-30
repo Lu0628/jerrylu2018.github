@@ -56,4 +56,6 @@ this week we were finishing up our pizza project. we can change our size of pizz
 
 this week we build our own website, we were discribe about our favorate games. and we need to put cool inmages and back ground coloron that website to make it looks interesting. my favorate game is gta5 and i think my website should be very intresting. and you can click the botton bellow to download the game witch is so convonient. i used a lot of things that i learned during the past week such as control the background and have a fast link into another website.therefor you can link in to steam if you want to download the game.
 
+# review 11/30/2018
 
+this week we were learning about bootstrap on visual stodio code. it shows us how web page turn big or small depends if the divice that your using is either big or small. and we will be working on our new project base on that called the million dollor home page. its like you put a lot of images into your home page and with boots trap. 
