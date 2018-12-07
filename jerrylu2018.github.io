@@ -69,3 +69,5 @@ this week we were learning about bootstrap on visual stodio code. it shows us ho
 # review 12/7/2018
 
 this week we been working on a project called million dollor homepage. it is like you put a lot of pixel all over your website. then you change your pixel into different color and turn it into a image.the reason that we do this project is to learn about how all the simple pixel games work. and aslo a lot of other website. we could alsp upgrade the website by whne we click the pixel will change color.
+
+...
