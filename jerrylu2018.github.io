@@ -75,3 +75,5 @@ this week we been working on a project called million dollor homepage. it is lik
 # review 12/14/2018
 
 this week we were working on a project called javascript. it is like an official website that have botton on it. we made our websit to be able to do acountabilitys. you can mark peoples name on present. and theres also a annoy me button, if you click that button it will was a windows keep shouwing up and you couldn't close it witch is very annoying.
+
+...
